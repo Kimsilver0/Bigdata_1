@@ -1,0 +1,13 @@
+train: C:\yolov5-master\yolov5-master\blocks\images
+val: C:\yolov5-master\yolov5-master\blocks\images
+
+nc: 7
+names: [
+'guide_blocks',
+'kick_board',
+'fallin_kick',
+'kick_handler',
+'kick_neck',
+'kick_body',
+'kick_wheel'
+]
